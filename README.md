@@ -15,7 +15,7 @@ A Firebase deployment for hosting the app
 
 To run this project on your own machine, you need to have Node.js and npm installed. Then follow these steps:
 
-Clone this repository: git clone https://github.com/yourusername/linkedin-replica.git
+Clone this repository: git clone https://github.com/shaspachayan/linkedin-clone.git
 Go to the project folder: cd linkedin-replica
 Install the required packages: npm install
 Start the development server: npm start
@@ -29,4 +29,4 @@ To use this app, you need to sign-in with your email and password or sign in wit
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 #Contact:
-If you have any questions or feedback, feel free to contact me at shaspa22@email.com
+If you have any questions or feedback, feel free to contact me at shaspa22@gmail.com
