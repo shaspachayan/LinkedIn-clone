@@ -1,5 +1,9 @@
-A LinkedIn Replica:
+A LinkedIn Replica: 
 -------------------
+
+URL:
+----
+https://linkedin-dummy-402c7.web.app/home
 
 Login Page :
 ----------
@@ -40,7 +44,9 @@ How to Use It:
 To use this app, you need to sign-in with your email and password or sign in with your Google account. Then you can post videos and images, more function will be accordingly.
 
 License:
+--------
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact:
+---
 If you have any questions or feedback, feel free to contact me at shaspa22@gmail.com
