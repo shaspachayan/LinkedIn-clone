@@ -5,6 +5,10 @@ URL:
 ----
 https://linkedin-dummy-402c7.web.app/home
 
+Sample Video: 
+------------
+https://user-images.githubusercontent.com/94305667/231542757-f9366436-e8d5-484c-8de3-6f7d022b896a.mp4
+
 Login Page :
 ----------
 ![image](https://user-images.githubusercontent.com/94305667/231536680-8738e96b-c3ce-472e-8672-e95c778ef7ab.png)
