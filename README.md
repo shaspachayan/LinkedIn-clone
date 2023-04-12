@@ -1,7 +1,14 @@
-#A LinkedIn Replica:
+A LinkedIn Replica:
+-------------------
 
+Login Page :
+----------
+![image](https://user-images.githubusercontent.com/94305667/231536680-8738e96b-c3ce-472e-8672-e95c778ef7ab.png)
 
-![image](https://user-images.githubusercontent.com/94305667/231536440-1c275dde-2b2a-4cb3-840d-6b6d58b82370.png)
+Home :
+------
+![image](https://user-images.githubusercontent.com/94305667/231536784-dd9c5cb3-6216-4345-9285-1a6f4f761d2a.png)
+------------------------------------------------------------------------------------------------------------
 
 
 This project is a replica of the famous platform for professionals, LinkedIn. It enables users to build their online resumes, network with other users, share their insights, and find their dream jobs.
