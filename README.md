@@ -3,7 +3,7 @@ A LinkedIn Replica:
 
 URL:
 ----
-https://linkedin-dummy-402c7.web.app/home
+https://linkedin-dummy-402c7.web.app/
 
 Sample Video: 
 ------------
